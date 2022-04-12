@@ -1,0 +1,9 @@
+{
+	"background_color": "#111111",
+	"description": "jomini",
+	"display": "standalone",
+	"name": "jomini",
+	"short_name": "jomini",
+	"start_url": ".",
+	"theme_color": "#111111"
+}
